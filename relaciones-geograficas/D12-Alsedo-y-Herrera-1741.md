@@ -20,7 +20,8 @@ tags:
 tipo:
 - Descripción
 - Compendio
-provincia: Quito
+provincia: 
+- Quito
 - Guayaquil 
 ---
 
