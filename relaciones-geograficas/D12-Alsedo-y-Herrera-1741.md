@@ -7,7 +7,7 @@ bio:
 - Presidente de la Audiencia de Quito (1728) 
 - Gobernador de Panamá (1743-1749)
 - Historiador y geógrafo
--Escribió varios trabajos sobre América
+- Escribió varios trabajos sobre América
 anio: 1741
 tags:
 - Mar del sur
