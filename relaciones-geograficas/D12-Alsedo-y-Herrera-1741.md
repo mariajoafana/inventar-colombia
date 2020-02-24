@@ -8,7 +8,6 @@ bio:
 - Gobernador de Panamá (1743-1749)
 - Historiador y geógrafo
 -Escribió varios trabajos sobre América
-
 anio: 1741
 tags:
 - Mar del sur
