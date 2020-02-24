@@ -22,7 +22,6 @@ tipo:
 - Compendio
 provincia: Quito
 - Guayaquil 
-
 ---
 
 Reflexión:
