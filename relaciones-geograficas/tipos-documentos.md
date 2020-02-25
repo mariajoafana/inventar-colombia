@@ -15,3 +15,8 @@ fecha:
 ##D63-D79
 
 
+**Referencias**
+- Diccionario de Autoridades
+http://web.frl.es/DA.html
+
+
