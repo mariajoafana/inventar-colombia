@@ -1,8 +1,8 @@
 ---
 titulo:
-Discusión de categorías de documentos
+- Discusión de categorías de documentos
 fecha:
-2020-02-25
+- 2020-02-25
 ---
 
 ##D2-D21
