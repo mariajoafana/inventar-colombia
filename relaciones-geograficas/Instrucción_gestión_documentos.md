@@ -1,6 +1,6 @@
 **Instrucción para descarga, nomenclatura y almacenamiento de documentos**
 
-De acuerdo a la tabla [Relaciones descripciones completa](https://uniandes-my.sharepoint.com/:x:/g/personal/mj_afanador28_uniandes_edu_co/EcyAfQq1xRlIs9iaRW5sZmABHVRsNiuuaryhRGkfZmf_oQ?e=z0wl2e)siga los siguientes pasos. 
+De acuerdo a la tabla [Relaciones descripciones completa](https://uniandes-my.sharepoint.com/:x:/g/personal/mj_afanador28_uniandes_edu_co/EcyAfQq1xRlIs9iaRW5sZmABHVRsNiuuaryhRGkfZmf_oQ?e=z0wl2e) siga los siguientes pasos. 
 
 (Laura comenzará con el documento de ID D02 y David con el documento D41)
 
