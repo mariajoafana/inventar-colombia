@@ -14,26 +14,15 @@ Repositorio de textos cartográficos del norte de Suramérica en el siglo XVIII
 
 
 
-##Cassani
-Misionero
-Asunto histórico
-Proceso de palabras repetidas
+Proyecto en desarrollo apoyado por el Fondo de Apoyo a Profesores Asistentes (FAPA) de la Universidad de los Andes, Bogotá, Colombia. 
 
-Palabras clave:
-- Semilla
-- Fruta
-- Tierra
-- Población 
-- Fertilidad (cómo aparece)
-- Sitio (ambiguo)
-- Terreno
+**Monitores de investigación:**
+- Laura Romero, Departamento de Historia
+- David Echeverry, Departamento de Historia del Arte
 
-- Imangiación a partir del referente europeo
-- Lo que hay y no hay en cada lado de 
+**Asistentes graduados:**
+- Isis Beleño, Maestría en Humandidades Digitales
+- Santiago González, Maestría en Geografía
 
-Lo imaginado
-
-Lo administrativo
-Posición más contemplativa que de extracción
-
-Inventarios de la naturaleza
+**Investigadora principal:**
+- Maria José Afanador Llach
