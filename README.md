@@ -5,11 +5,11 @@ Repositorio de textos cartográficos del norte de Suramérica en el siglo XVIII
 - Curaduría documentos históricos
 - Metadatos enriquecidos
 - Procesamiento con OCR
+- Exploraciones con modelado de tópicos (LDA)
 - Exploraciones con NER (Named Entity Recognition) para extrar datos sobre economía política (productos, minas, puertos, ríos, caminos, etc) para la construcción de:  
 
     - Base de datos y buscador
-    - Conjuntos de datos
-    - Visualizaciones
+    - Visualizaciones de modelado de tópicos
     - Narrativa digital
     - Interface de navegación de todo el proyecto
 
