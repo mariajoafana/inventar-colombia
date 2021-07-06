@@ -15,7 +15,7 @@ Repositorio de textos cartográficos del norte de Suramérica en el siglo XVIII
 
 
 
-Proyecto en desarrollo apoyado por el Fondo de Apoyo a Profesores Asistentes (FAPA) de la Universidad de los Andes, Bogotá, Colombia. 
+Proyecto en desarrollo apoyado por el Fondo de Apoyo a Profesores Asistentes (FAPA) de la Universidad de los Andes, Bogotá, Colombia y por la Beca a Estrategias de Producción y Circulación Digital del Patrimonio Bibliográfico y Documental Colombiano, Ministerio de Cultura, Colombia. 
 
 **Monitores de investigación:**
 - Laura Romero, Departamento de Historia
