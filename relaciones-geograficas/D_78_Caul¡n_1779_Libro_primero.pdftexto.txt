@@ -1,9 +1,9 @@
 ---
-title: 
+title: |
      Historia coro-graphica, natural y evangelica de la Nueva Andalucia, provincias de Cumaná, Guayana y Vertientes del Rio Orinoco
 author:
      - Antonio Caulin
-date: 1736    
+date: 1736-01-01    
 ---
  
  
