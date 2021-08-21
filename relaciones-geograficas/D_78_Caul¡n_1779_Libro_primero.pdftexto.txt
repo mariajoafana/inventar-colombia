@@ -1,10 +1,24 @@
 ---
 title: |
-     Historia coro-graphica, natural y evangelica de la Nueva Andalucia, provincias de Cumaná, Guayana y Vertientes del Rio Orinoco
-author:
-     - Antonio Caulin
-date: 1736-01-01    
+    Creación de corpus paralelo con LF Aligner
+authors:
+    - Armando Luza
+date: 2018-08-13
+reviewers:
+- Antonio Rojas Castro
+- Ignacio Rodríguez
+editors:
+  - Maria José Afanador-Llach
+layout: lesson
+difficulty: 2
+slug: corpus-paralelo-lfaligner
+review-ticket: https://github.com/programminghistorian/ph-submissions/issues/197
+activity: analyzing
+topics:
+abstract: |
+  "Esta lección enseña a crear corpus con traducciones a distintas lenguas, de forma que queden perfectamente alineados para una mejor visualización y consulta."
 ---
+
  
  
 HISTORIA CORO  GRAPHICA NATURAL Y EVANGELICA  7 DELA NUEVA ANDALUCIA PROVINCIAS DE  Cumanábuayana Y Vertientes del RioOrinoco; DEDICADA ALREI NS.  q D.CARLOS HT l Pr dido fr AntonioUeulín dos ely  de los observantes de (> Canada do áluz de odeny ende SA año de soe 1779     
