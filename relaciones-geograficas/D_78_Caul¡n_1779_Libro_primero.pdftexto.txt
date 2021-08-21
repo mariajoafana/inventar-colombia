@@ -1,9 +1,11 @@
 ---
-title: " Historia coro-graphica, natural y evangelica de la Nueva Andalucia, provincias de Cumaná, Guayana y Vertientes del Rio Orinoco"
-excerpt: "Recurso digital para conocer, explorar e interpretar un conjunto de documentos históricos del siglo dieziocho conectados a la historia de las regiones orientales del virreinato del Nuevo Reino de Granada y en particular con el río Orinoco.
-date: 1736
-author: Antonio Caulin
---- 
+title: 
+     Historia coro-graphica, natural y evangelica de la Nueva Andalucia, provincias de Cumaná, Guayana y Vertientes del Rio Orinoco
+author:
+     - Antonio Caulin
+date: 1736    
+---
+ 
  
 HISTORIA CORO  GRAPHICA NATURAL Y EVANGELICA  7 DELA NUEVA ANDALUCIA PROVINCIAS DE  Cumanábuayana Y Vertientes del RioOrinoco; DEDICADA ALREI NS.  q D.CARLOS HT l Pr dido fr AntonioUeulín dos ely  de los observantes de (> Canada do áluz de odeny ende SA año de soe 1779     
 
