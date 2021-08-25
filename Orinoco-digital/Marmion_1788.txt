@@ -1,9 +1,8 @@
 ---
 title: "Descripcion Corografico-Mixta de la Provincia Guayana"
-authors: "Coronel Miguel Marmion" 
+author: "Coronel Miguel Marmion" 
 date: 1788-01-01
 ---
-
 
 DESCRIPCION COROGRAFICO.MEXTA DE LA PROVINCIA DE GUAYANA  
     
