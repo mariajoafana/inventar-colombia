@@ -1,5 +1,5 @@
 
-**Datos y Capta: notas metodológicas sobre los datos geoespaciales en *Inventar Colombia* **
+## Datos y Capta: notas metodológicas sobre los datos geoespaciales en *Inventar Colombia* 
 
 
 Para acercarse al conocimiento sobre las maneras en que los diferentes grupos indígenas concibieron su relación con el territorio y sus recursos, el proyecto explora flujos metodológicos que vienen desarrollándose en los campos de las humanidades digitales y la geografía. Para este fin fue fundamental investigar sobre el campo de las humanidades espaciales y analizar diferentes proyectos sobre el campo. Las humanidades espaciales se refieren a un campo interdisciplinario que invita a enfocarse en el espacio en sus dimensiones geográficas y conceptuales. Sus planteamientos se dirigen a conectar herramientas digitales y Sistemas de Información Geográfica (GIS) con la indagación de la construcción humana de los conceptos de lugar y espacio.
